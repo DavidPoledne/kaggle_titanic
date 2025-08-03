@@ -52,16 +52,14 @@ See `/aws_ec2/` for requirements, data setup, and script version of the pipeline
 
 **Clone the repository:**
 
-   git clone https://github.com/DavidPoledne/kaggle_titanic.git
-   
-   cd kaggle_titanic
+- git clone https://github.com/DavidPoledne/kaggle_titanic.git
+- cd kaggle_titanic
 
 **Install dependencies:**
 
-  pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **Run Jupyter Notebooks:**
 
-  jupyter notebook notebooks/preprocessing.ipynb
-  
-  jupyter notebook notebooks/model_comparison.ipynb
+- jupyter notebook notebooks/preprocessing.ipynb
+- jupyter notebook notebooks/model_comparison.ipynb
