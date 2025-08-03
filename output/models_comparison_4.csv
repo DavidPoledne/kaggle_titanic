@@ -1,0 +1,9 @@
+,id,Model,Accuracy,Imputation,Categorical Features Convert,Scaling,Feature selection,Hyperparameters tuning
+7,7,Random Forest Classifier,0.84677,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+6,6,Bagging,0.84251,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+5,5,Decision Tree Classifier,0.83267,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+8,8,Gradient Boosting Classifier,0.82983,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+4,4,"Logistic Regression, penalty = l2",0.80023,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+9,9,Adaboost Classifier,0.79881,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+3,3,"Logistic Regression, penalty = l1",0.78617,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True
+1,1,K Neighbors Classifier,0.71721,knn_imputer,get_dummies_fun,no_scaling_fun,no_feature_selector,True

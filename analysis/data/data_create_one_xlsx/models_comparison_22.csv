@@ -1,0 +1,9 @@
+,id,Model,Accuracy,Imputation,Categorical Features Convert,Scaling,Feature selection,Hyperparameters tuning
+8,8,Gradient Boosting Classifier,0.83973,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+6,6,Bagging,0.83693,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+7,7,Random Forest Classifier,0.83265,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+5,5,Decision Tree Classifier,0.82285,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+1,1,K Neighbors Classifier,0.82281,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+9,9,Adaboost Classifier,0.79603,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+4,4,"Logistic Regression, penalty = l2",0.79601,knn_imputer,label_encoder_fun,standardization,predictors_selector,True
+3,3,"Logistic Regression, penalty = l1",0.79178,knn_imputer,label_encoder_fun,standardization,predictors_selector,True

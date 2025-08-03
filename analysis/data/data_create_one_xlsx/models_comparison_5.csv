@@ -1,0 +1,10 @@
+,id,Model,Accuracy,Imputation,Categorical Features Convert,Scaling,Feature selection,Hyperparameters tuning
+1,1,K Neighbors Classifier,0.79041,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+6,6,Bagging,0.78766,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+2,2,"Logistic Regression, penalty = none",0.78619,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+4,4,"Logistic Regression, penalty = l2",0.78619,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+3,3,"Logistic Regression, penalty = l1",0.78619,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+9,9,Adaboost Classifier,0.78619,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+5,5,Decision Tree Classifier,0.77921,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+8,8,Gradient Boosting Classifier,0.77921,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
+7,7,Random Forest Classifier,0.77639,knn_imputer,get_dummies_fun,normalization,predictors_selector,False
